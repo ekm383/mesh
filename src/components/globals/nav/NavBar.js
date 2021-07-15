@@ -8,7 +8,7 @@ import Burger from "./Burger"
 const NavBar = () => {
   const data = useStaticQuery(graphql`
     query {
-      logo: file(relativePath: { eq: "shari-saiki-design-Logo.png" }) {
+      logo: file(relativePath: { eq: "mesh-logo.jpg" }) {
         childImageSharp {
           fluid(quality: 90, maxWidth: 300) {
             ...GatsbyImageSharpFluid
@@ -36,7 +36,7 @@ const NavBar = () => {
 const Nav = styled.nav`
   margin: 0rem auto;
   padding: 1rem;
-  background: var(--darkGray);
+  background: #000000;
   display: flex;
   justify-content: space-between;
   align-items: center;

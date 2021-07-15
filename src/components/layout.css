@@ -4,7 +4,7 @@
 }
 
 :root {
-  --mainColor: #749b7e;
+  --mainColor: #724e02;
   --secondaryColor: rgb(199, 212, 209);
   --darkGray: #171717;
   --gray: #666666;
@@ -31,4 +31,15 @@ h6 {
 
 a {
   text-decoration: none;
+}
+
+.decor-list {
+  margin-left: 1rem;
+  margin-top: 10px;
+  font-size: 0.7rem;
+  list-style-type: none;
+}
+
+.decor-list li {
+  padding-bottom: 10px;
 }

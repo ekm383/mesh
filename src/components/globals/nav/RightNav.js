@@ -12,23 +12,13 @@ class RightNav extends Component {
       },
       {
         id: 1,
-        path: "/about",
-        text: "About",
-      },
-      {
-        id: 2,
-        path: "/services",
-        text: "Services",
-      },
-      {
-        id: 3,
         path: "/contact",
         text: "Contact",
       },
       {
-        id: 4,
-        path: "/mesh",
-        text: "[ MESH ]",
+        id: 2,
+        path: "/",
+        text: "[ Shari Saiki ]",
       },
     ],
   }

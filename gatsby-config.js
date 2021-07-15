@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Shari Saiki`,
-    description: `Interior Design in Honolulu Hawaii`,
+    title: `Mesh`,
+    description: `Interior Design in Honolulu Hawaii by Shari Saiki`,
     author: `@meshsharisaiki`,
   },
   plugins: [

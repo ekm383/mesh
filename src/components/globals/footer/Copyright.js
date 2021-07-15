@@ -4,7 +4,7 @@ import styled from "styled-components"
 const Copyright = () => {
   return (
     <CopyrightWrapper className="copyright">
-      &copy; 2021 SHARI SAIKI DESIGN STUDIO
+      &copy; 2021 MESH BY SHARI SAIKI DESIGN STUDIO
     </CopyrightWrapper>
   )
 }

@@ -13,18 +13,13 @@ class Footer extends Component {
       },
       {
         id: 1,
-        path: "/about",
-        text: "About",
-      },
-      {
-        id: 2,
-        path: "/services",
-        text: "Services",
-      },
-      {
-        id: 3,
         path: "/contact",
         text: "Contact",
+      },
+      {
+        id: 1,
+        path: "/",
+        text: "[ Shari Saiki ]",
       },
     ],
   }
